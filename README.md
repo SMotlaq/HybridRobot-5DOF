@@ -11,7 +11,7 @@
 
 ### Kinematics, dynamics, and control system of a new 5-degree-of-freedom hybrid robot manipulator
 
-*This project is based on a robot from reference article.*
+*This project is based on a robot from [reference article](https://github.com/SMotlaq/HybridRobot-5DOF#reference-article).*
 
 Hybrid robotic application is a continuously developing field, as hybrid robot manipulators have demonstrated clearly to possess benefits of both serial structures and parallel mechanisms. In this article, the physical prototype and the specially designed control system for a new 5-degree-of-freedom hybrid robot manipulator are developed. The mechanical structure, kinematics, dynamics, and control system of this robot manipulator are presented. A newly appropriate set of closed-form solutions, which can avoid multiple solutions, is proposed to address the inverse kinematics problem of this robot manipulator. Additionally, simulations of the kinematics and dynamics of this robot manipulator and the tests for the repeatability and accuracy of both the position and path are first simulated with two numerical examples and then conducted on the physical prototype.
 
